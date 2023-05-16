@@ -10,6 +10,6 @@
   <li>Identifying vulnerabilties for a small business</li>
   <li>Documenting incidents with an incident handler's journal</li>
   <li>Importing and parsing a text file in a security-related scenario</li>
-  <li>Creating ore revising a resume</li>
+  <li>Creating or revising a resume</li>
 </ol>
 <p> This list is not exhaustive and I may include things from my master's program as well.
