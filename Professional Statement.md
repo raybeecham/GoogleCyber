@@ -1,4 +1,4 @@
-Professional Statement
+<b>Professional Statement</b>
 
 Highly motivated and detail-oriented military veteran with a Bachelor’s of Business Administration in Computer Information Systems, currently pursuing a Master’s in Information Systems 
 with a specialization in Cybersecurity. I bring 3+ years of experience as a Software Product and Platform Engineer Senior Analyst at Accenture Federal Services, demonstrating strong 
